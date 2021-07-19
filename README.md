@@ -1,11 +1,11 @@
 # Sistem-Pemesanan-Tiket-Bioskop-App
 # Tugas Besar PBO
 
-* Kelas 		      :S1IF-07-K 
-* Nama TIM		        : Eternal
-* Project Manager	        : Eka Supriyati 	(19102002)
-* Analyst			: Risa Riski Amalia	(19102079)
-* Designer	        	: Julian Saputra	(19102008)
+* Kelas 		                    : S1IF-07-K
+* Nama TIM		                  : Eternal
+* Project Manager	            : Eka Supriyati 	    (19102002)
+* Analyst			                  : Risa Riski Amalia	 (19102079)
+* Designer	                  	: Julian Saputra	    (19102008)
 * Programmer 1 (Coding Event)	: Syaefulloh Arnas  	(19102172)
 * Programmer 2 (Database)     : Asti Dwi Sripamuji	(19102006)
  
