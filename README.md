@@ -1,7 +1,7 @@
 # Sistem-Pemesanan-Tiket-Bioskop-App
 Tugas Besar PBO
 
-<p> Kelas 		       <br>:<br> S1IF-07-K 
+<p> Kelas 		       <br>: S1IF-07-K 
 <p> Nama TIM		        : Eternal
 <p> Project Manager	        : Eka Supriyati 	(19102002)
 <p> Analyst			: Risa Riski Amalia	(19102079)
