@@ -20,23 +20,23 @@
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu.jpg/>
  </p>
 <p align="center">
- Tampilan form Pilih Kursi Pembelian
+ Tampilan form Pilih Kursi Pembelian <br>
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20Pilih%20Kursi%20Pembelian.jpg />
  </p>
  <p align="center">
- Tampilan form menu Pembayaran Pembelian
+ Tampilan form menu Pembayaran Pembelian <br>
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu%20Pembayaran%20Pembelian.jpg/>
  </p>
  <p align="center">
- Tampilan form menu Daftar Pembelian
+ Tampilan form menu Daftar Pembelian <br>
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu%20Daftar%20Pembelian.jpg/>
  </p>
  <p align="center">
- Tampilan form menu Booking Menu
+ Tampilan form menu Booking Menu <br>
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu%20Booking%20Menu.jpg/>
  </p>
  <p align="center">
- Tampilan form menu Pilih Kursi Booking
+ Tampilan form menu Pilih Kursi Booking <br>
   <img src=https://github.com/Ekasupriyati26/Sistem-Pemesanan-Tiket-Bioskop-App/blob/main/Tampilan%20Program/Tampilan%20form%20menu%20Pilih%20Kursi%20Booking.jpg/>
  </p>
  <p align="center">
